@@ -1,0 +1,27 @@
+{
+  "name": "m3-l3.javascript-advanced",
+  "version": "1.0.0",
+  "description": "Welcome to the Advanced JavaScript Lab\\! This lab will test your understanding of complex concepts like closures, asynchronous programming, prototypes, and classes. Your goal is to complete the functions in the `lab.js` file.",
+  "main": "lab.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IOD-SE/M3-L3.JavaScript-Advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IOD-SE/M3-L3.JavaScript-Advanced/issues"
+  },
+  "homepage": "https://github.com/IOD-SE/M3-L3.JavaScript-Advanced#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "node-fetch": "2.7.0"
+  }
+}
