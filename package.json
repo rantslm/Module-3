@@ -1,0 +1,12 @@
+{
+  "name": "js-intermediate-lab",
+  "version": "1.0.0",
+  "description": "Lab exercises for Intermediate JS",
+  "main": "lab.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
